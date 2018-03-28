@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/gianebao/smsx/shorten"
+	"github.com/gianebao/shorten"
 	"github.com/stretchr/testify/assert"
 )
 
